@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=Seoyeon%20Hong&fontAlign=80&fontAlignY=30&fontSize=40&fontColor=FFFFFF)
 ### 🙌 Introuce
   <ul>
-    <li>Passionate about web development and eager to contribute to innovative projects and collaborations in the field.</li>
+    <li>Passionate about web development and eager to contribute to innovative projects and collaborations in the field</li>
     <li>Studied IT Media Engineering at Duksung Women's University, South Korea. From March 2019, expected graduation in August 2024</li>
     <li>Studied Computer Science at Angelo State University, United States. Fall semester: 2022. Spring semester: 2023</li>
     <li>Hold Engineer Information Processing certification</li>
