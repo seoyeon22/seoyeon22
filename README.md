@@ -28,5 +28,4 @@
 <div align="center">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
 </div>
-![Seoyeon Hong's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyeon22&show_icons=true&theme=transparent)
-![Solved.ac Profile/hsy2709](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsy2709)](https://solved.ac/hsy2709)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hsy2709)](https://solved.ac/hsy2709)
