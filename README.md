@@ -2,7 +2,7 @@
 ### 🙌 Introuce
   <ul>
     <li>Passionate about web development and eager to contribute to innovative projects and collaborations in the field</li>
-    <li>Studied IT Media Engineering at Duksung Women's University, South Korea. From March 2019, expected graduation in August 2024</li>
+    <li>Graduated in IT Media Engineering from Duksung Women's University, South Korea, in August 2024.</li>
     <li>Studied Computer Science at Angelo State University, United States. Fall semester: 2022. Spring semester: 2023</li>
     <li>Hold Engineer Information Processing certification</li>
   </ul>
